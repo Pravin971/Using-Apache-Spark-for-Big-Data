@@ -3,9 +3,9 @@ In this project of we will analyze a real-world data set and apply machine learn
 
 # Analysis
 We used these algorithms for evaluating the best possible accuracy :
-Linear Regression
-Greadient Boosted Tree Regressor
-Logistic Regression
-Random Forest Classifier
-Gradient Boosted Tree Classifier
+1)Linear Regression
+2)Gradient Boosted Tree Regressor
+3)Logistic Regression
+4)Random Forest Classifier
+5)Gradient Boosted Tree Classifier
 
