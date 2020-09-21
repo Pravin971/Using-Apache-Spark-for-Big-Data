@@ -1,5 +1,5 @@
 # Using-Apache-Spark-for-Big-Data
-In this project of we will analyze a real-world data set and apply machine learning on it using Apache Spark.
+In this project  I have analyzed a real-world data set and apply machine learning on it using Apache Spark.
 
 # Analysis
 We used these algorithms for evaluating the best possible accuracy :
